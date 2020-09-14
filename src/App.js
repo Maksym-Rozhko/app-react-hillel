@@ -1,10 +1,63 @@
 import React, { Component } from 'react';
+import './App.css';
+import User from './components/User';
+
 
 class App extends Component {
+  state = {
+    users: ['Max', 'Dax', 'Don', 'Gor'],
+    newUser: ''
+  }
+
+  addUser = () => {
+    const { users, newUser } = this.state;
+    this.setState({
+      users: [...users, newUser],
+      newUser: ''
+    })
+  }
+
+  onChange = (e) => {
+    this.setState({
+      newUser: e.target.value
+    })
+  }
+  
+  deleteUser = (removedIndex) => {
+    const { users } = this.state;
+    this.setState({
+      users: users.filter((user, i) => i !== removedIndex)
+    })
+  }
+
+  updateUser = (updateUser, updateIndex ) => {
+    const { users } = this.state;
+    this.setState({
+      users: users.map((user, i) => i === updateIndex ? updateUser : user)
+    })
+  }
+
   render() {
+
+    const { users, newUser } = this.state;
+
     return (
-      <h1>Hello World</h1>
+      <div>
+        <h1>Hello</h1>
+        <ul>
+          {
+            users.map((name, i) => 
+            <User onUpdateUser={this.updateUser} name={name} position={i} key={i} onRemoveUser={this.deleteUser} />
+            )
+          }
+        </ul>
+        <input value={newUser} onChange={this.onChange} type="text"/>
+        <button onClick={this.addUser}>Add user</button>
+      </div>
     )
+
+
+
   }
 }
 
