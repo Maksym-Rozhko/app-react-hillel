@@ -3,4 +3,6 @@ const splitNames = fullName => {
 }
 
 export { splitNames };
-  
+
+
+
