@@ -3,6 +3,7 @@ import 'semantic-ui-css/semantic.min.css'
 import User from './FirstWeek/cw1/components/User';
 import Week1 from "./FirstWeek/hw1/HomeWork";
 import Week1hw1 from "./FirstWeek/HomeWorks/Week1hw1";
+import Week2hw1 from './SecondWeek/HomeWorks/Week2hw1';
 
 
 class App extends Component {
@@ -10,12 +11,16 @@ class App extends Component {
   render() {
     return (
       <>
-        <Week1hw1 />
+        <Week2hw1 />
+        {/* <Week1hw1 /> */}
         {/* <Week1 /> */}
       </>
     )
   }
 }
+
+
+export default App;
 
 //<Week1>   -----------{COMMENTS}-----------
 //            The teacher showed an example 
@@ -86,4 +91,3 @@ class App extends Component {
 //   }
 // }
 
-export default App;
