@@ -4,16 +4,18 @@ import User from './FirstWeek/cw1/components/User';
 import Week1 from "./FirstWeek/hw1/HomeWork";
 import Week1hw1 from "./FirstWeek/HomeWorks/Week1hw1";
 import Week2hw1 from './SecondWeek/HomeWorks/Week2hw1';
-
+import Blog from './SecondWeek/HomeWorks/Blog/Blog';
+import './App.css';
 
 class App extends Component {
 
   render() {
     return (
       <>
-        <Week2hw1 />
+        {/* <Week2hw1 /> */}
         {/* <Week1hw1 /> */}
         {/* <Week1 /> */}
+        <Blog />
       </>
     )
   }

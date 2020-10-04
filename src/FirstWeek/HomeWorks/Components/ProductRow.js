@@ -1,9 +1,10 @@
-import React, { Component } from 'react'
-import 'semantic-ui-css/semantic.min.css'
-import { Table, Button, Input } from 'semantic-ui-react'
-import { Icon } from 'semantic-ui-react'
+import React, { Component } from 'react';
+import 'semantic-ui-css/semantic.min.css';
+import { Table, Button, Input } from 'semantic-ui-react';
+import { Icon } from 'semantic-ui-react';
+// import EditProductRow from './EditProductRow';
 
-class ProductTable extends Component {
+class ProductRow extends Component {
 
   constructor(props) {
     super(props);
@@ -54,7 +55,7 @@ class ProductTable extends Component {
     this.setState({
       isEdit: false,
       editedProduct: this.props.product
-  })
+    })
   }
 
   render() {
@@ -86,20 +87,20 @@ class ProductTable extends Component {
       </Table.Cell>
     </Table.Row>
     ) 
-       return (
-        <Table.Row>
-            <Table.Cell>{position + 1}</Table.Cell>
-            <Table.Cell>{product.title}</Table.Cell>
-            <Table.Cell>{product.category}</Table.Cell>
-            <Table.Cell>{product.price}</Table.Cell>
-            <Table.Cell>{product.quantity}</Table.Cell>
-            <Table.Cell>
-            <Icon name='edit' size='large' onClick={this.onEdit} />
-            <Icon name='trash' size='large' onClick={() => onRemoveProduct(position)}/>
-            </Table.Cell>
-        </Table.Row>  
-      )
-    }
+    return (
+      <Table.Row>
+          <Table.Cell>{position + 1}</Table.Cell>
+          <Table.Cell>{product.title}</Table.Cell>
+          <Table.Cell>{product.category}</Table.Cell>
+          <Table.Cell>{product.price}</Table.Cell>
+          <Table.Cell>{product.quantity}</Table.Cell>
+          <Table.Cell>
+          <Icon name='edit' size='large' onClick={this.onEdit} />
+          <Icon name='trash' size='large' onClick={() => onRemoveProduct(position)}/>
+          </Table.Cell>
+      </Table.Row>  
+    )
+  }
 }
 
-export default ProductTable;
+export default ProductRow;
