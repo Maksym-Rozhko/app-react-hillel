@@ -1,18 +1,7 @@
-h1 {
-    color: red;
-}
-
-.composition-example, .blog {
-    padding: 24px !important;
-}
-  
-.author-column .ui.card {
-    position: fixed !important;
-    top: 24px !important;
-}
 body {
-    background-color: violet;
+    background: #416aa1;
 }
-#root {
-    margin: 10px;
+.ui.input>input {
+    background: #e8f0fe;
+    color: #000;
 }
