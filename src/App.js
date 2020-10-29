@@ -1,17 +1,19 @@
 import React, { Component } from 'react';
 import 'semantic-ui-css/semantic.min.css'
-import User from './FirstWeek/cw1/components/User';
-import Week1 from "./FirstWeek/hw1/HomeWork";
-import Week1hw1 from "./FirstWeek/HomeWorks/Week1hw1";
-
+// import User from './FirstWeek/cw1/components/User';
+// import Week1 from "./FirstWeek/hw1/HomeWork";
+// import Week1hw1 from "./FirstWeek/HomeWorks/Week1hw1";
+import BlogV2 from './HomeWorks5/Router/Blog';
+import './App.css';
 
 class App extends Component {
 
   render() {
     return (
       <>
-        <Week1hw1 />
+        {/* <Week1hw1 /> */}
         {/* <Week1 /> */}
+          <BlogV2 />
       </>
     )
   }
