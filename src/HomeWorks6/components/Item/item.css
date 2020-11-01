@@ -1,0 +1,29 @@
+.ui.card:first-child {
+    margin-top: 14px;
+}
+
+.ui.card:last-child {
+    margin-bottom: 14px;
+}
+
+.ui.card {
+    margin-right: 10px;
+}
+
+.item-price {
+    font-size: 22px;
+    line-height: 34px;
+    color: #88775f;
+}
+
+.item-descrp {
+    font-size: 18px;
+}
+
+.descrp-link {
+    color: goldenrod;
+}
+
+.descrp-link:hover {
+    color: olivedrab;
+}

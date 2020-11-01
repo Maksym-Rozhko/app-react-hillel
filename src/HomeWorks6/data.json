@@ -1,0 +1,180 @@
+{
+    "MensWatches": [
+        {
+            "id": 1,
+            "name": "EXPLORER",
+            "price":"18999",
+            "brand": "Rolex",
+            "descriptions":"The Oyster Perpetual Explorer in Oystersteel features a distinctive black dial with characteristic 3, 6, and 9 numerals in Chromalight. Its highly legible hour markers, extremely resistant Oystersteel and waterproofness have made it a tool watch for exploration.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m214270-0003.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/2020/bg/model-feature-background-steel.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bezel-with-colored-shadow/43275.png&sc1=4.8&c1x=-1365&c1y=-991&imwidth=550",
+            "imgm": "https://content.rolex.com/dam/model-page/features/material/materials-steel_mat-steel_0009.jpg?imwidth=550",
+            "imgr": "https://content.rolex.com/dam/2020/bg/model-feature-background-steel.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/42529.png&sc1=4.65&c1x=-887&c1y=-138&imwidth=550" 
+        },
+        {
+            "id": 2,
+            "name": "GMT-MASTER ll",
+            "price":"55299",
+            "brand": "Rolex",
+            "descriptions":"The Oyster Perpetual GMT-Master II in Everose Rolesor with an Oyster bracelet. This model features a black dial and a brown and black Cerachrom bezel. Designed to show the time in two different time zones simultaneously during intercontinental flights, the GMT-Master has come to be recognized for its robustness and versatile appearance.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m126711chnr-0002.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/model-page/gallery/m126711chnr-0002/model-page-gmt-master-ii_m126711chnr-0002_01_large_1.jpg?imwidth=1240",
+            "imgm": "https://content.rolex.com/dam/model-page/gallery/m126711chnr-0002/model-page-gmt-master-ii_m126711chnr-0002_1904dh_002_medium_2.jpg?imwidth=800",
+            "imgr": "https://content.rolex.com/dam/model-page/gallery/m126711chnr-0002/model-page-gmt-master-ii_m126711chnr-0002_02_large_3.jpg?imwidth=1240" 
+        },
+        {
+            "id": 3,
+            "name": "DAY-DATE 40",
+            "price":"24700",
+            "brand": "Rolex",
+            "descriptions":"The Oyster Perpetual Day-Date 40 in 18 ct white gold with an olive-green dial, Fluted bezel and a President bracelet. The Day-Date was the first watch to indicate the day of the week spelt out in full when it was first presented in 1956.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m228239-0033.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/2020/bg/model-feature-background-steel.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/dial-raw-with-colored-shadow/50832_g_40.png&sc1=4.65&c1x=-1215&c1y=-956&imwidth=550",
+            "imgm": "https://content.rolex.com/dam/model-page/features/material/materials-white-gold_elmt1506cw_003.jpg?imwidth=550",
+            "imgr": "https://content.rolex.com/dam/2020/bg/model-feature-background-steel.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/46466.png&sc1=4.65&c1x=-887&c1y=-135&imwidth=550" 
+        },
+        {
+            "id": 4,
+            "name": "SUBMARINER",
+            "price":"54820",
+            "brand": "Rolex",
+            "descriptions":"The Oyster Perpetual Submariner in Oystersteel with a Black Cerachrom bezel and a black dial with large luminescent hour markers. It features a unidirectional rotatable bezel with Cerachrom insert and solid-link Oyster bracelet. The latest generation Submariner and Submariner Date remain faithful to the original model launched in 1953. In watchmaking, the Submariner represented a historic turning point; it set the standard for divers’ watches.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m124060-0001.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/2020/bg/model-feature-background-steel.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/dial-raw-with-colored-shadow/51571_g_41.png&sc1=4.65&c1x=-1165&c1y=-972&imwidth=550",
+            "imgm": "https://content.rolex.com/dam/model-page/features/material/materials-steel_mat-steel_0009.jpg?imwidth=550",
+            "imgr": "https://content.rolex.com/dam/2020/bg/model-feature-background-steel.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/51546.png&sc1=4.65&c1x=-879&c1y=-90&imwidth=550" 
+        },
+        {
+            "id": 5,
+            "name": "OYSTER PERPETUAL 41",
+            "price":"42379",
+            "brand": "Rolex",
+            "descriptions":"The Oyster Perpetual 41 with a silver dial and an Oyster bracelet. The aesthetics of the Oyster Perpetual models set them apart as symbols of universal and classic style. They embody timeless form and function, firmly rooted in the pioneering origins of Rolex.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m124300-0001.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/model-page/features/material/materials-steel_mat-steel_0009.jpg?imwidth=550",
+            "imgm": "https://content.rolex.com/dam/2020/bg/model-feature-background-steel.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/51232.png&sc1=4.65&c1x=-869&c1y=-50&imwidth=550",
+            "imgr": "https://content.rolex.com/dam/model-page/features/movement/movement-calibre-3230-g.jpg?imwidth=550" 
+        },
+        {
+            "id": 6,
+            "name": "COSMOGRAPH DAYTONA",
+            "price":"61445",
+            "brand": "Rolex",
+            "descriptions":"This Oyster Perpetual Cosmograph Daytona in 18 ct Everose gold with a rosé-colour and black dial and an Oysterflex bracelet, features a Black Cerachrom bezel with tachymetric scale. This chronograph was designed to be the ultimate timing tool for endurance racing drivers. More than 50 years after its creation, the Cosmograph Daytona remains in a class of its own among sport chronographs and continues to transcend time.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m116515ln-0018.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/2020/bg/model-feature-background-everose.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/dial-raw-with-colored-shadow/41406_p_40.png&sc1=4.65&c1x=-1195&c1y=-950&imwidth=550",
+            "imgm": "https://content.rolex.com/dam/model-page/features/material/materials-everose-gold_elmt_1705cw_003.jpg?imwidth=550",
+            "imgr": "https://content.rolex.com/dam/2020/bg/model-feature-background-everose.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/51517.png&sc1=4.65&c1x=-882&c1y=-95&imwidth=550" 
+        },
+        {
+            "id": 7,
+            "name": "YACHT-MASTER ll",
+            "price":"60499",
+            "brand": "Rolex",
+            "descriptions":"The Oyster Perpetual Yacht-Master II in Everose Rolesor with an Oyster bracelet and a bidirectional rotatable bezel with a blue Cerachrom insert. The only chronograph in the world with a mechanical memory, the Yacht-Master II with its bezel acting as a programmable countdown, is an essential tool for skippers to gauge their best course of action.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m116681-0002.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/2020/bg/model-feature-background-everose.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/dial-raw-with-colored-shadow/51125_g_44.png&sc1=4.65&c1x=-1184&c1y=-960&imwidth=550",
+            "imgm": "https://content.rolex.com/dam/model-page/features/material/materials-steel-pink-gold_elmt_1705cw_006.jpg?imwidth=550",
+            "imgr": "https://content.rolex.com/dam/2020/bg/model-feature-background-everose.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/44228.png&sc1=4.65&c1x=-873&c1y=-143&imwidth=550" 
+        },
+        {
+            "id": 8,
+            "name": "SEA-DWELLER",
+            "price":"20499",
+            "brand": "Rolex",
+            "descriptions":"The Oyster Perpetual Sea-Dweller in Yellow Rolesor with a black ceramic bezel and an Oyster bracelet. It features a distinctive black dial and large luminescent hour markers. Waterproof to a depth of 4,000 feet (1,220 metres) with a unidirectional 60-minute rotatable bezel, the Rolex Sea-Dweller is amongst the ultra-resistant divers’ watches engineered by Rolex for deep-sea exploration. ",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m126603-0001.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/2020/bg/model-feature-background-yellow-gold.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/dial-raw-with-colored-shadow/51721_g_43.png&sc1=4.65&c1x=-1158&c1y=-962&imwidth=550",
+            "imgm": "https://content.rolex.com/dam/model-page/features/material/materials-steel-yellow-gold_elmt_1501cw_003.jpg?imwidth=550",
+            "imgr": "https://content.rolex.com/dam/2020/bg/model-feature-background-yellow-gold.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/51720.png&sc1=4.65&c1x=-873&c1y=-143&imwidth=550" 
+        },
+        {
+            "id": 9,
+            "name": "DATEJUST 41",
+            "price":"37499",
+            "brand": "Rolex",
+            "descriptions": "This Oyster Perpetual Datejust 41 in Yellow Rolesor features a champagne-colour dial and a Jubilee bracelet. The light reflections on the case sides and lugs highlight the elegant profile of the 41 mm Oyster case, which is fitted with a Fluted bezel. Aesthetically, the Datejust has spanned eras, while retaining the enduring codes that make it, notably in its traditional versions, one of the most recognized and recognizable of watches.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m126333-0010.png?impolicy=v6-upright&imwidth=420",
+            "imgl": "https://content.rolex.com/dam/2020/bg/model-feature-background-yellow-gold.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/dial-raw-with-colored-shadow/50748_g_41.png&sc1=4.65&c1x=-1218&c1y=-960&imwidth=550",
+            "imgm": "https://content.rolex.com/dam/model-page/features/material/materials-steel-yellow-gold_elmt_1501cw_003.jpg?imwidth=550",
+            "imgr": "https://content.rolex.com/dam/2020/bg/model-feature-background-yellow-gold.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/50651.png&sc1=4.65&c1x=-861&c1y=-151&imwidth=550"
+        },
+        {
+            "id": 10,
+            "name": "SKY-DWELLER",
+            "price":"34221",
+            "brand": "Rolex",
+            "descriptions":"The Oyster Perpetual Sky-Dweller in 18 ct yellow gold with a bright black dial and an Oysterflex bracelet. This distinctive watch is characterized by its second time zone display on an off-centre disc on the dial. Furthermore, its innovative system for setting the functions, using the rotatable Ring Command bezel, is unique to Rolex. ",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m326238-0009.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/2020/bg/model-feature-background-yellow-gold.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bezel-with-colored-shadow/51727.png&sc1=4.8&c1x=-1393&c1y=-993&imwidth=550",
+            "imgm": "https://content.rolex.com/dam/model-page/features/material/materials-yellow-gold_rolex_profiles_evr_05a6232.jpg?imwidth=550",
+            "imgr": "https://content.rolex.com/dam/2020/bg/model-feature-background-yellow-gold.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/51860.png&sc1=4.65&c1x=-861&c1y=-107&imwidth=550" 
+        },
+        {
+            "id": 11,
+            "name": "MILGAUSS",
+            "price":"44778",
+            "brand": "Rolex",
+            "descriptions":"This Oyster Perpetual Milgauss features a Z-blue dial with luminescent hour markers, a green sapphire crystal produces light reflections while preserving optimal legibility. With its clean lines and evocative orange seconds hand, shaped like a lightning bolt to echo the original model, the Milgauss is recognizable at a glance.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m116400gv-0002.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/2020/bg/model-feature-background-steel.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/dial-raw-with-colored-shadow/50381_g_40.png&sc1=4.65&c1x=-1206&c1y=-964&imwidth=550",
+            "imgm": "https://content.rolex.com/dam/model-page/features/special-features/magnetic-shield-milgauss_elmt_1901mg_001.jpg?imwidth=550",
+            "imgr": "https://content.rolex.com/dam/model-page/features/movement/movement-calibre-3131-g.jpg?imwidth=550" 
+        },
+        {
+            "id": 12,
+            "name": "CELLINI MOONPHASE",
+            "price":"18889",
+            "brand": "Rolex",
+            "descriptions":"The Cellini Moonphase in 18 ct Everose gold with a Leather strap. This model features an exclusive display of the phases of the moon. Its White dial with a blue enamel disc at 6 o’clock displays the lunar cycle where the full moon is depicted by a meteorite applique.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m50535-0002.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/2020/bg/model-feature-background-everose.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bezel-with-colored-shadow/50769.png&sc1=4.8&c1x=-1365&c1y=-991&imwidth=550",
+            "imgm": "https://content.rolex.com/dam/model-page/features/material/materials-everose-gold_elmt_1705cw_003.jpg?imwidth=550",
+            "imgr": "https://content.rolex.com/dam/2020/bg/model-feature-background-everose.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/50776.png&sc1=4.65&c1x=-887&c1y=-167&imwidth=550" 
+        },
+        {
+            "id": 13,
+            "name": "AIR-KING",
+            "price":"38844",
+            "brand": "Rolex",
+            "descriptions":"With its 40 mm case in Oystersteel, solid-link Oyster bracelet with Oysterclasp, and distinctive Black dial, the Air-King perpetuates the aeronautical heritage of the original Rolex Oyster. The Oyster Perpetual Air-King pays tribute to the pioneers of flight and the Oyster’s roles in the epic story of aviation.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m116900-0001.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/model-page/gallery/m116900-0001/model-page-air-king_air_king_m116900_0001_flagship_detail_index_50_iso_01_medium_2.jpg?imwidth=800",
+            "imgm": "https://content.rolex.com/dam/model-page/gallery/m116900-0001/model-page-air-king_air_king_m116900_0001_flagship_detail_aiguille_seconde_iso_01_medium_3.jpg?imwidth=800",
+            "imgr": "https://content.rolex.com/dam/model-page/gallery/m116900-0001/model-page-air-king_air_king_m116900_0001_flagship_ambiance_50_iso_01_large_1.jpg?imwidth=1240" 
+        },
+        {
+            "id": 14,
+            "name": "YACHT-MASTER ll",
+            "price":"42777",
+            "brand": "Rolex",
+            "descriptions":"The Oyster Perpetual Yacht-Master II in Oystersteel with an Oyster bracelet and a bidirectional rotatable bezel with a blue Cerachrom insert. The only chronograph in the world with a mechanical memory, the Yacht-Master II with its bezel acting as a programmable countdown, is an essential tool for skippers to gauge their best course of action.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m116680-0002.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/model-page/gallery/m116680-0002/model-page-yacht-master_yacht_master_ii_m116680_0002_flagship_ambiance_iso_02_large_1.jpg?imwidth=1240",
+            "imgm": "https://content.rolex.com/dam/model-page/gallery/m116680-0002/model-page-yacht-master_yacht_master_ii_m116680_0002_flagship_poussoirs_iso_02_medium_2.jpg?imwidth=800",
+            "imgr": "https://content.rolex.com/dam/model-page/gallery/m116680-0002/model-page-yacht-master_yacht_master_ii_m116680_0002_flagship_lunette_iso_02_large_3.jpg?imwidth=1240" 
+        },
+        {
+            "id": 15,
+            "name": "OYSTER PERPETUAL 36",
+            "price":"31488",
+            "brand": "Rolex",
+            "descriptions":"The Oyster Perpetual 36 with a candy pink dial and an Oyster bracelet. The aesthetics of the Oyster Perpetual models set them apart as symbols of universal and classic style. They embody timeless form and function, firmly rooted in the pioneering origins of Rolex.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m126000-0008.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/model-page/features/material/materials-steel_mat-steel_0009.jpg?imwidth=550",
+            "imgm": "https://content.rolex.com/dam/2020/bg/model-feature-background-steel.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/51233.png&sc1=4.65&c1x=-877&c1y=-100&imwidth=550",
+            "imgr": "https://content.rolex.com/dam/model-page/features/movement/movement-calibre-3230-g.jpg?imwidth=550" 
+        },
+        {
+            "id": 16,
+            "name": "COSMOGRAPH DAYTONA",
+            "price":"53999",
+            "brand": "Rolex",
+            "descriptions":"This Oyster Perpetual Cosmograph Daytona in 18 ct yellow gold, with an intense black and champagne-colour dial and an Oyster bracelet, features an 18 ct yellow gold bezel with engraved tachymetric scale. This chronograph was designed to be the ultimate timing tool for endurance racing drivers. More than 50 years after its creation, the Cosmograph Daytona remains in a class of its own among sport chronographs and continues to transcend time.",
+            "img": "https://content.rolex.com/dam/2020//upright-bba-with-shadow/m116508-0009.png?impolicy=v6-upright&imwidth=840",
+            "imgl": "https://content.rolex.com/dam/2020/bg/model-feature-background-yellow-gold.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/dial-raw-with-colored-shadow/34589_y_40.png&sc1=4.65&c1x=-1195&c1y=-950&imwidth=550",
+            "imgm": "https://content.rolex.com/dam/2020/bg/model-feature-background-yellow-gold.jpg?impolicy=v6-model-feature&c1path=/dam/2020/upright-cc/m116508-0009.png&sc1=4.85&c1rd=-60&c1x=-1214&c1y=-766&imwidth=550",
+            "imgr": "https://content.rolex.com/dam/2020/bg/model-feature-background-yellow-gold.jpg?impolicy=v6-model-feature&c1path=/dam/2020/harmonised/bracelet-ud/40952.png&sc1=4.65&c1x=-882&c1y=-95&imwidth=550" 
+        }
+    ]
+}

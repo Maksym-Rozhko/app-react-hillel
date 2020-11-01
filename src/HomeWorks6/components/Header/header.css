@@ -1,0 +1,83 @@
+.ui.menu:first-child {
+    margin-bottom: 0;
+}
+
+.ui.menu {
+    background-color: #000;
+    border-radius: 0;
+}
+
+.nav-link {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition-duration: .5s;
+}
+
+.nav-link:hover {
+   color: #88775f;
+}
+
+.nav-link svg {
+    fill: #fff;
+    transition-duration: .5s;
+}
+
+.nav-link:hover svg {
+    fill: #88775f;
+}
+
+.ui.button:hover {
+    background-color: transparent;
+}
+
+svg path {
+    transition-duration: .5s;
+}
+svg path+g {
+    transition-duration: .5s;
+}
+svg path+g+g {
+    transition-duration: .5s;
+}
+
+.basketBtn:hover svg path {
+    stroke: #88775f;
+}
+.basketBtn:hover svg path+g {
+    stroke: #88775f;
+}
+.basketBtn:hover svg path+g+g {
+    stroke: #88775f;
+}
+
+.basket-item {
+    margin-left: auto;
+}
+
+.basket-box {
+    position: relative;
+}
+
+.ui.button {
+    background: transparent;
+}
+
+.ui.button:focus {
+    background-color: transparent;
+    transform: scale(1.2);
+}
+
+.minicart-quantity {
+    font-family: sans-serif;
+    background-color: red;
+    border-radius: 50%;
+    color: #fff;
+    letter-spacing: normal;
+    position: absolute;
+    padding: 0 0 0 4px;
+    top: 0px;
+    left: 30px;
+    width: 18px;
+    height: 18px;
+}

@@ -3,16 +3,24 @@ import 'semantic-ui-css/semantic.min.css'
 import User from './FirstWeek/cw1/components/User';
 import Week1 from "./FirstWeek/hw1/HomeWork";
 import Week1hw1 from "./FirstWeek/HomeWorks/Week1hw1";
+import { Provider } from 'react-redux';
+import { saveLocal } from './HomeWorks6/redux/storage/localStorage';
+import createStore from './HomeWorks6/redux/createStore';
+import Store from './HomeWorks6/Store';
 
+const store = createStore();
+
+store.subscribe(()=>{
+  saveLocal('basket',store.getState().products.basket)
+})
 
 class App extends Component {
 
   render() {
     return (
-      <>
-        <Week1hw1 />
-        {/* <Week1 /> */}
-      </>
+    <Provider store={store}>
+      <Store></Store>
+    </Provider>
     )
   }
 }
