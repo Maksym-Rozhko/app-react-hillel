@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://blog.kupibilet.ru/wp-content/uploads/2014/01/bronirovanie-otelya-dlya-vizy.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .ui .container {
+    position: relative;
+    height: 100vh;
+  }
+  
+  .form-auth {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .form-title {
+    color: #fafafa;
+    font-size: 44px;
+    line-height: 48px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .field {
+    margin-bottom: 10px;
+  }
+  
+  .ui.labeled.input {
+    width: 100%;
+  }

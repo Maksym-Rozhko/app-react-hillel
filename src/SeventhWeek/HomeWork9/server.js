@@ -1,13 +1,18 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 // const apiRouter = require('./api'); HomeWork9
-const apiRouter = require('../HomeWork8/api');
+// const apiRouter = require('../HomeWork8/api'); HomeWork8
+const apiRouter = require('../../HomeWork10/server/api');
+const cors = require('cors');
+require('express-async-errors');
+require('../../HomeWork10/server/connect-db');
 const app = express();
 
+app.use(cors());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
-// app.use('/api', apiRouter); HomeWork9
-app.use('/weather', apiRouter);
+app.use('/api', apiRouter); //HomeWork9
+// app.use('/weather', apiRouter); HomeWork8
 
 app.get("/", function (req, res) {
   res.send("All right, server is working");
